@@ -37,3 +37,12 @@ div li button {
   margin: 0 15px;
   background: #ca4949;
 }
+
+label{
+  padding: 5px;
+}
+
+input{
+  margin: 10px;
+  height: 25px;
+}
